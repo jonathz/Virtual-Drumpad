@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Virtual-Drumpad/static/css/main.8cd6604e.chunk.css",
+    "main.js": "/Virtual-Drumpad/static/js/main.80f64dbb.chunk.js",
+    "main.js.map": "/Virtual-Drumpad/static/js/main.80f64dbb.chunk.js.map",
+    "runtime-main.js": "/Virtual-Drumpad/static/js/runtime-main.18345e87.js",
+    "runtime-main.js.map": "/Virtual-Drumpad/static/js/runtime-main.18345e87.js.map",
+    "static/js/2.13f28697.chunk.js": "/Virtual-Drumpad/static/js/2.13f28697.chunk.js",
+    "static/js/2.13f28697.chunk.js.map": "/Virtual-Drumpad/static/js/2.13f28697.chunk.js.map",
+    "index.html": "/Virtual-Drumpad/index.html",
+    "static/css/main.8cd6604e.chunk.css.map": "/Virtual-Drumpad/static/css/main.8cd6604e.chunk.css.map",
+    "static/js/2.13f28697.chunk.js.LICENSE.txt": "/Virtual-Drumpad/static/js/2.13f28697.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18345e87.js",
+    "static/js/2.13f28697.chunk.js",
+    "static/css/main.8cd6604e.chunk.css",
+    "static/js/main.80f64dbb.chunk.js"
+  ]
+}
