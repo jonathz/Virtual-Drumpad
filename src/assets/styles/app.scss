@@ -1,0 +1,21 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+#pad-bank{
+  display: flex;
+  text-align: center;
+}
+.drum-pad{
+  background-color: grey;
+  width: 100px;
+  height: 80px;
+  border: 1px solid white;
+  margin: 10px;
+}
+.display-Pad{
+  background-color: grey;
+  width: 100px;
+  text-align: center;
+}
