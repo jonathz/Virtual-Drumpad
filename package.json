@@ -1,5 +1,6 @@
 {
   "name": "DrumMachine",
+  "homepage": "https://jonathz.github.io/Virtual-Drumpad/",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,7 +29,6 @@
   "devDependencies": {
     "css-loader": "^5.2.5",
     "file-loader": "^6.2.0",
-    "gh-pages": "^3.1.0",
     "html-loader": "^2.1.2",
     "html-webpack-plugin": "^5.3.1",
     "mini-css-extract-plugin": "^1.6.0",
